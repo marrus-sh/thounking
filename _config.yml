@@ -3,3 +3,13 @@ titles_from_headings:
   enabled:     true
   strip_title: false
   collections: true
+plugins:
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
